@@ -1,5 +1,5 @@
 /* ICS 53
- * Project: Simple Shell
+ * Project: Virtual Memory Simulator
  * Instructor: Ian Harris
  *
  * Student 1: Hongji Wu (ID: )
