@@ -1,9 +1,6 @@
 /* ICS 53
  * Project: Virtual Memory Simulator
- * Instructor: Ian Harris
- *
- * Student 1: Hongji Wu (ID: )
- * Student 2: Yi-Ju, Tsai (ID: 31208132)        
+ * Yi-Ju, Tsai & Hongji Wu     
  */
 
 #include <stdio.h>
